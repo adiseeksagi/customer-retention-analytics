@@ -119,5 +119,7 @@ customer-retention-analytics/
 ```
 
 ---
+## Dashboard Preview
 
+![Customer Retention Dashboard](dashboard/dashboard_preview.png)
 *Built for Summer Projects 2026, Consulting & Analytics Club, IIT Guwahati.*
